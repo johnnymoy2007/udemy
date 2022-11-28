@@ -87,6 +87,7 @@ img {
     background-repeat: no-repeat;
     position: relative;
     margin-bottom: 0px;
+    padding-left: 40px;
 }
 
 .black_friday {
@@ -112,21 +113,25 @@ img {
 .broad_selection {
     line-height: 2;
     margin-left: 30px;
-    width: 60%;
+    width: 80%;
 }
 
 .broad_selection p {
     font-size: 19px;
+    padding: 0px 120px;
 }
 
 .broad_selection h1 {
     font-size: 40px;
+    padding: 10px 120px;
 }
 
 .onine_courses {
     display: flex;
+    justify-content: left;
     list-style-type: none;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    padding: 0px 120px;
 }
 
 .onine_courses li {
@@ -134,9 +139,9 @@ img {
 }
 
 .section_two {
-    width: 1300px;
-    padding: 20px;
-    border: 1px solid rgb(218, 213, 213);
+    margin-top: 30px;
+    padding: 10px 120px;
+    border: 1px solid grey;
     margin-bottom: 30px;
 }
 
@@ -200,7 +205,7 @@ img {
 
 .bestseller {
     background-color: rgb(238, 238, 153);
-    width: 80px;
+    width: 90px;
     padding: 3px;
     text-align: center;
     justify-content: center;
@@ -209,8 +214,8 @@ img {
 }
 
 .section_three {
-    background-color: rgb(129, 170, 170);
-margin: 0 auto;
+    background-color: rgb(234, 241, 241);
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -237,25 +242,28 @@ margin: 0 auto;
 .section_four_flex{
 display: flex;
 justify-content: space-evenly;
-width: 1300px;
-padding: 20px;
+padding: 40px;
 /* border: 1px solid rgb(218, 213, 213); */
 margin-top: 0px;
 }
-.section_four{margin-top: 30px;
+.section_four{
+    margin-top: 30px;
+    padding: 20px 70px;
 }
 
 .section_five{
-    padding: 60;
+    padding: 2px 70px 40px;
 }
 .section_five_grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;justify-content: space-between;
     padding: 100;
 }
-.section_five img{width: 23vw;
+.section_five img{
+    width: 23vw;
 }
-.head_five{margin-top: 40px;}
+.head_five{
+    margin-top: 40px;}
 
 .section_six{
     background-color: rgb(243, 252, 252);
