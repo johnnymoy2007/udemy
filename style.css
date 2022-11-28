@@ -1,0 +1,145 @@
+.section-3{
+    background-color: rgb(243, 252, 252);
+    padding: 50px;
+    
+}
+.section-3-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.section-3-text{
+    text-align: center;
+    font-size: larger;
+}
+.section-3-wrapper ul{
+    list-style-type: none;
+}
+.section-3 h1{
+    font-size: x-large;
+    padding-left: 200px;
+}
+.section-3-input input{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-weight: 300;
+    
+}
+.section-3-input{
+padding-left: 200px;
+}
+.partners{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px,50px,50px,50px;
+
+}
+.section-4-wrapper{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+.section-4-img img{
+width: 400px;
+height: 400px;
+}
+.section-4-header{
+    font-size: xx-large;
+    font-weight: 300px;
+    padding-top: 100px;
+}
+.section-4-left{
+    padding-top: 50px;
+    padding-right: 100px;
+    width: 350px;
+}
+.section-4-ptag{
+    width: 350px;
+    margin-top: 150;
+    font-size: larger;
+    
+}
+.section-4-input{
+    display: flex;
+    justify-content: space-between;
+}
+.input1 input{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    font-weight: 300;
+}
+.section-4-left img{
+    width: 160px;
+    height: 40px;
+}
+.input2 input{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    font-weight: 300; 
+}
+
+.section-5-wrapper{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+.section-5-ptag{
+    width: 350px;
+    margin-top: 150;
+    font-size: larger;
+    
+}
+.section-5-text{
+    padding-top: 150px;
+    padding-left: 100px;
+}
+.section-5-header{
+    font-size: xx-large;
+}
+.section-5-text input{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+}
+
+.section-6{
+    background-color: rgb(24, 23, 23);
+    padding: 15px;
+
+}
+.section-6-wrapper{
+    display: flex;
+    justify-content: left, space-between;
+    color: white;
+    line-height: 30px;
+}
+.Ul-list1{
+    list-style-type: none;
+    padding-left: 50px;
+}
+.Ul-list2{
+    list-style-type: none;
+    padding-left: 350px;
+}
+.Ul-list3{
+    list-style-type: none;
+    padding-left: 350px;
+}
+.english{
+    padding-left: 1400px;
+    color: white;
+
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 30px;
+}
